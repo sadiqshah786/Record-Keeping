@@ -1,4 +1,4 @@
-## React-API-Rendering
-### JSON Placeholder Data using UseEffect and Fetch(Async await)
+## React Record Keeping App
+### useState Example
 
-JSON API Data rendering On DOM [DEMO]("https://api-data-fetching-json.netlify.app/")
+ Record Keeping App [DEMO](https://record-keeping.netlify.app/)
